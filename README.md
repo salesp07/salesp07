@@ -1,16 +1,23 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07">
 
-<!--
-**salesp07/salesp07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Pedro+Muniz!;&center=true&size=30">
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">A passionate software developer from Canada 🇧🇷</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a web app for my Portfolio**
+
+ 🌱 I’m currently learning **PostreSQL, Tailwind, Three.js**
+
+ 💬 Ask me about **Node.js, React, Firebase, MongoDB**
+
+ ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 
+ </div>
