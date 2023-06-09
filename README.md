@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Pedro+Muniz!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;">
   </a>
 </h1>
 
@@ -12,11 +12,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a web app for my Portfolio**
+ 🔭 I’m currently working on **a chat app**
 
  🌱 I’m currently learning **PostgreSQL, Tailwind, Three.js**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB**
+ 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
@@ -36,7 +36,7 @@
 
  <hr/>
  
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -63,6 +63,8 @@
     <img align="left" width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     <img align="right" width=390 src="https://github-readme-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
+
+
 <br><br><br><br><br><br><br><br><br>
 <div align=center>
     <img width=325 align="center" src="https://github-readme-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
@@ -71,3 +73,7 @@
 <br>
 <br>
 <br>
+
+<!-- Reference Links -->
+
+
