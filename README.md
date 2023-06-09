@@ -14,7 +14,7 @@
  
  🔭 I’m currently working on **a web app for my Portfolio**
 
- 🌱 I’m currently learning **PostreSQL, Tailwind, Three.js**
+ 🌱 I’m currently learning **PostgreSQL, Tailwind, Three.js**
 
  💬 Ask me about **Node.js, React, Firebase, MongoDB**
 
