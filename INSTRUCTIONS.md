@@ -17,6 +17,7 @@
  6. Customize lines 9-23 to fit your description
  7. Customize your Socials section (25-35)
  8. Customize your Tools section (41-46)
- 9. In your stats section, rename `https://github-readme-salesp07.vercel.app` to `https://github-readme-stats.vercel.app`. The first one is my private instance of the repo, and I use it so my private contributions are taken into account as well. Hosting your private instance of github-readme-stats on Vercel is quite a simple process; if you're interested, click [here](https://github.com/salesp07/github-readme-stats#deploy-on-your-own).
- 10. Customize your footer typing animation (line 79)
- 11. You're good to go! Make sure to leave a ⭐ if you like this repo!
+ 9. On line 54, change `/salesp07/salesp07/` to `/<your-username>/<your-username>`. This will make sure that you're fetching your snake contributions svg and not mine.
+ 10. In your stats section, rename `https://github-readme-salesp07.vercel.app` to `https://github-readme-stats.vercel.app`. The first one is my private instance of the repo, and I use it so my private contributions are taken into account as well. Hosting your private instance of github-readme-stats on Vercel is quite a simple process; if you're interested, click [here](https://github.com/salesp07/github-readme-stats#deploy-on-your-own).
+ 11. Customize your footer typing animation (line 79)
+ 12. You're good to go! Make sure to leave a ⭐ if you like this repo!
