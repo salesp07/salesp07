@@ -22,24 +22,26 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
 
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+    # Checks repo under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
 
     # Generates the snake  
       - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          # these next 2 lines generate the files on a branch called "output". 
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-     # show the status of the build. Makes it easier for debugging (if there's any issues).
+      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # the output branch we mentioned above
+          # the output branch mentioned above
           target_branch: output
           build_dir: dist
         env:
