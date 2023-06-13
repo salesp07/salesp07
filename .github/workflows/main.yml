@@ -11,6 +11,11 @@ on:
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
 
 # The sequence of runs in this workflow:
 jobs:
@@ -22,15 +27,11 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
 
-    # Checks repo under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
-
-    # Generates the snake  
-      - uses: Platane/snk@master
+      - name: Generate the snake files in './dist/'
+      - uses: Platane/snk@v2
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          # these next 2 lines generate the files on a branch called "output". 
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -39,10 +40,11 @@ jobs:
       # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
 
+      - name: push new files to the output branch
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # the output branch mentioned above
           target_branch: output
           build_dir: dist
+          commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
