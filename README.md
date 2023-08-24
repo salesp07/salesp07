@@ -16,7 +16,7 @@
 
  💬 Ask me about **Node.js, C++, C, SQL... or anything [here](https://github.com/SJLEE411/SJLEE411/issues)**
 
- ⚡ Fun fact **I am from one of the coldest part of Earth**
+ ⚡ Fun fact **I am from one of the coldest parts of the Earth**
  
  </div>
  
@@ -46,7 +46,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SJLEE411/SJLEE411/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/<SJLEE411>/<SJLEE411>/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -57,17 +57,12 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=SJLEE411&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-SJLEE411.vercel.app/api?username=SJLEE411&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<!--   <img width=390 src="https://github-readme-stats-SJLEE411.vercel.app/api?username=SJLEE411&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-SJLEE411.vercel.app/api/top-langs/?username=SJLEE411&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-SJLEE411.vercel.app/api/top-langs/?username=SJLEE411&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 </div>
 
 <br/><br/>
 <hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
-
 <br/>
 
