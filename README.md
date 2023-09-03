@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShaneTheAnalyst" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shane+DeBoer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Shane+DeBoer!;" />
 </h1>
 
 <h3 align="center">A passionate Data and Cloud Engineer with a focus on AI and ML from South Africa. 🇨🇦</h3>
@@ -14,7 +14,7 @@
  
  🌱 I’m currently working on **AWS Cloud Services, Convolutional Neural Network, AI and Machine Learning **
 
- 💬 Ask me about **Python, SQL, AWS Cloud Services, CNN...  or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Python, SQL, AWS Cloud Services, CNN...  or anything [here](https://github.com/ShaneTheAnalyst/ShaneTheAnalyst/issues)**
 
  ⚡ Fun facts about South Africa. **South Africa is the largest producer of macadamia nuts in the world. South Africa is the only country in the entire world where a street has produced two Nobel Prize winners in history**
  
