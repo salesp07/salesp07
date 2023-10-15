@@ -18,6 +18,8 @@
  🔭 I’m currently working on a **MustacheDAO** project
  
  </div>
+
+<hr/>
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/sergei-avramtsuk-59a040255/" target="_blank">
@@ -25,13 +27,13 @@
   </a>
 </div>
 
-<hr/>
-
 <div align="center">
   <h2>☘️ My Contributions ☘️</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RuffBuff/RuffBuff/output/github-contribution-grid-snake.svg" />
 </div>
+
+<hr/>
  
 <h2 align="center">⚒️ Languages && FW's I Learn ⚒️</h2>
 <br/>
@@ -40,7 +42,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,java,nextjs,mysql,flask" /><br>
 </div>
 
-<br/>
 <hr/>
 
 <h3 align="center">
