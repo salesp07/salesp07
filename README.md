@@ -9,7 +9,7 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuffBuff&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<h3 align="center">Amateur Developer from world</h3>
+<h3 align="center">Amateur Developer from world 🤌</h3>
 
 <br/>
 
@@ -26,13 +26,13 @@
   <a href="https://www.linkedin.com/in/sergei-avramtsuk-59a040255/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://t.me/your_username" target="_blank">
+  <a href="https://t.me/ruffbuff" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
   </a>
-  <a href="https://twitter.com/x" target="_blank">
+  <a href="https://twitter.com/RuffBuff_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
   </a>
-  <a href="https://discord.gg/your_invite_code" target="_blank">
+  <a href="https://discord.gg/YDYvF29bkZ" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
 </div>
