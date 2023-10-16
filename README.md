@@ -32,7 +32,7 @@
 <br/>
 
 <div align="center">
- 🔭 I’m currently working on a **MustacheDAO** project
+ 🔭 I’m currently working on a MustacheDAO project
 </div>
 <br>
 <hr/>
