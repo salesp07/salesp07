@@ -1,4 +1,13 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RuffBuff.RuffBuff" />
+<p align="center">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RuffBuff.RuffBuff" />
+  <a href="#">
+    <img
+      alt="total stars"
+      title="Total stars on GitHub"
+      src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/crypto-codev520"
+    />
+  </a>
+</p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
