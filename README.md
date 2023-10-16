@@ -1,5 +1,8 @@
 <p align="center">
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RuffBuff.RuffBuff" />
+  <a href="#">
+    <img
+      src="https://visitor-badge.laobi.icu/badge?page_id=RuffBuff.RuffBuff"
+    />
   <a href="#">
     <img
       alt="total stars"
