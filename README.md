@@ -17,8 +17,9 @@
  
  🔭 I’m currently working on a **MustacheDAO** project
  
- </div>
-
+</div>
+ 
+<br>
 <hr/>
  
 <div align="center"> 
