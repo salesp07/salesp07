@@ -23,7 +23,8 @@
 
 💬 Let's discuss about <b>ML/DL, Blockchain, Quantum Computation, ... or anything [here](https://github.com/FaixaTheGutipoka/FaixaTheGutipoka/issues)</b>
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+🐱 Did you know, cats have whiskers on the backs of their front legs, as well?
 
  </div>
  
