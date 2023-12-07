@@ -75,7 +75,7 @@
 </br>
 </br>
 <hr/>
-<h2 align="center"> Connect with me </h2>
-<div align="center">
+<h2 align="left"> Connect with me </h2>
+<div align="left">
     <img src="https://skillicons.dev/icons?i=github,discord,linkedin,instagram" /><br>
 </div>
