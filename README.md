@@ -74,7 +74,6 @@
 
 
 
-<hr/>
 <h2 align="center"> Connect with me </h2>
 <br/>
 <div align="center">
