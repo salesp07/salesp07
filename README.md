@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+,+fellow+coders+!;+I+am+Labiba+Faiza+Karim!;+You+can+call+me+Faiza;" />
 </h1>
 
-<h3 align="center">I'm a fervent CSE student with a relentless drive to innovate and leave a lasting imprint on the tech scene. 💡🌐BD</h3>
+<h3 align="center">I'm a CSE student with a drive to innovate and leave a lasting imprint on the tech scene.🌐BD</h3>
 
 <br/>
 
@@ -16,7 +16,7 @@
  
  🎓 <b>Education:</b> Doing UG at North South University
 
- 💻 <b>Skill set:</b> C, Python 3, Java, SQL, HTML & 6809(AL)
+ 💻 <b>Skill set:</b> <img src="https://skillicons.dev/icons?i=python,c,java,html,idea,github,stackoverflow" /><br>
  
  🌱 <b>Currently learning:</b> JavaScript, C++, ML/DL, Web development...
 
