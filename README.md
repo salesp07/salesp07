@@ -7,13 +7,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+,+fellow+coders+!;+I+am+Labiba+Faiza+Karim!;+You+can+call+me+Faiza;" />
 </h1>
 
-<h3 align="center">I'm a fervent Computer Science and Engineering student with a relentless drive to innovate and leave a lasting imprint on the tech scene. 💡🌐🇨🇦</h3>
+<h3 align="center">I'm a fervent CSE student with a relentless drive to innovate and leave a lasting imprint on the tech scene. 💡🌐🇨🇦</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🎓 <b>Education:</b> UG student at NSU (CSE Program under ECE Department)
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
