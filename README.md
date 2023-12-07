@@ -9,8 +9,9 @@
 
 <h3 align="center">I'm a CSE student with a drive to innovate and leave a lasting imprint on the tech scene.🌐BD</h3>
 </br>
+<div align="center">
 <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-
+<div>
 <br/>
 
 <h2 align="center">About me :D</h2>
