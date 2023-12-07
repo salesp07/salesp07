@@ -15,7 +15,7 @@
  
  🎓 <b>Education:</b> Doing UG at North South University
 
- 💻 <b>Skill set:</b> C, Python 3, Java, SQL, HTML and 6809 Assembly Language
+ 💻 <b>Skill set:</b> C, Python 3, Java, SQL, HTML & 6809(AL)
  
  🌱 <b>Learning :</b> C++, ML/DL...
 
