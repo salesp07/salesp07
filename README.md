@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FaixaTheGutipoka.FaixaTheGutipoka" />
 
-<h1 align="center"> Welcome to My GitHub Dan!</h1>
+<h1 align="center"> Welcome to My GitHub den!</h1>
 </br>
 
 <h1 align="center">
@@ -23,8 +23,6 @@
 
 💬 Let's discuss about <b>ML/DL, Blockchain, Quantum Computation, ... or anything [here](https://github.com/FaixaTheGutipoka/FaixaTheGutipoka/issues)</b>
 
-🐱 Did you know, cats have whiskers on the backs of their front legs, as well?
-
  </div>
  
 <div align="center"> 
@@ -41,23 +39,18 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,java,html,idea,github,stackoverflow,discord,linkedin,instagram" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,java,html,idea,github,stackoverflow" /><br>
 </div>
 
-<br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+<h2 align="Left"> Connect with me </h2>
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=github,discord,linkedin,instagram" /><br>
 </div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
