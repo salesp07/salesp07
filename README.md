@@ -1,19 +1,29 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FaixaTheGutipoka.FaixaTheGutipoka" />
 
+
+
 <h1 align="center"> Welcome to My GitHub den!</h1>
 </br>
+
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+,+fellow+coders+!;+I+am+Labiba+Faiza+Karim!;+You+can+call+me+Faiza;" />
 </h1>
 
+
+
 <h3 align="center">I'm a CSE student with a drive to innovate and leave a lasting imprint on the tech scene.🌐BD</h3>
 </br>
+
+
 
 <div align=center>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=FaixaTheGutipoka&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 </br>
+
+
 
 <h2 align="center">Stats!!!</h2>
 <div align="center">
@@ -23,12 +33,16 @@
   <br/>
 </div>
 
+
+
 <h2 align="center">⚒️ Skill set ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,java,html,idea,github,stackoverflow" /><br>
 </div>
 <hr/>
+
+
 
 <h2 align="center">About me :D</h2>
 <div align="center">
@@ -42,8 +56,9 @@
  ☕️ <b>Interest areas:</b> AI, ANN, ML/DL, Data Mining, PyTorch, NumPy...
 
 💬 Let's discuss about <b>ML/DL, Blockchain, Quantum Computation, ... or anything [here](https://github.com/FaixaTheGutipoka/FaixaTheGutipoka/issues)</b>
-
  </div>
+
+
  
 <div align="center"> 
   <a href="mailto:faixa.the.gutipoka@gmail.com">
@@ -57,14 +72,11 @@
   </a>
 </div>
 
- <hr/>
 
-<br/>
+
 <hr/>
 <h2 align="center"> Connect with me </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,discord,linkedin,instagram" /><br>
 </div>
-
-<br/>
