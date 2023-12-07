@@ -44,13 +44,6 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,java,html,idea,github,stackoverflow" /><br>
 </div>
-
-<hr/>
-<h2 align="center"> Connect with me </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=github,discord,linkedin,instagram" /><br>
-</div>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -68,9 +61,11 @@
 <hr/>
 
 <br/>
-
+<hr/>
+<h2 align="center"> Connect with me </h2>
+<br/>
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <img src="https://skillicons.dev/icons?i=github,discord,linkedin,instagram" /><br>
 </div>
 
 <br/>
