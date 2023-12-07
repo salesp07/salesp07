@@ -8,6 +8,8 @@
 </h1>
 
 <h3 align="center">I'm a CSE student with a drive to innovate and leave a lasting imprint on the tech scene.🌐BD</h3>
+</br>
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
 <br/>
 
@@ -15,8 +17,6 @@
 <div align="center">
  
  🎓 <b>Education:</b> Doing UG at North South University
-
- 💻 <b>Skill set:</b> <img src="https://skillicons.dev/icons?i=python,c,java,html,idea,github,stackoverflow" /><br>
  
  🌱 <b>Currently learning:</b> JavaScript, C++, ML/DL, Web development...
 
@@ -40,16 +40,16 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages and Tools ⚒️</h2>
+<h2 align="center">⚒️ Skill set ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,java,html,idea,github,stackoverflow" /><br>
 </div>
 
 <hr/>
-<h2 align="Left"> Connect with me </h2>
+<h2 align="center"> Connect with me </h2>
 <br/>
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=github,discord,linkedin,instagram" /><br>
 </div>
 <hr/>
@@ -57,7 +57,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
