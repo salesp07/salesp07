@@ -14,7 +14,13 @@
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=FaixaTheGutipoka&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 </br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaixaTheGutipoka &theme=radical)
+
+<h2 align="center">Stats!!!</h2>
+
+  <br/>
+    <a href="https://github.com/FaixaTheGutipoka/github-readme-stats"><img alt="Faiza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FaixaTheGutipoka&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanbavisetti&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 <h2 align="center">⚒️ Skill set ⚒️</h2>
 <br/>
