@@ -7,17 +7,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+,+fellow+coders+!;+I+am+Labiba+Faiza+Karim!;+You+can+call+me+Faiza;" />
 </h1>
 
-<h3 align="center">I'm a fervent CSE student with a relentless drive to innovate and leave a lasting imprint on the tech scene. 💡🌐🇨🇦</h3>
+<h3 align="center">I'm a fervent CSE student with a relentless drive to innovate and leave a lasting imprint on the tech scene. 💡🌐BD</h3>
 
 <br/>
 
 <div align="center">
  
- 🎓 <b>Education:</b> UG student at NSU (CSE Program under ECE Department)
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🎓 <b>Education:</b> Doing UG at North South University
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💻 <b>Skill set:</b> C, Python 3, Java, SQL, HTML and 6809 Assembly Language
+ 
+ 🌱 <b>Learning :</b> C++, ML/DL...
+
+💬 Let's discuss about <b>OOP, Java, AI, ML/DL... or anything [here]</b>(https://github.com/FaixaTheGutipoka/FaixaTheGutipoka/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
