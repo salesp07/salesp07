@@ -10,6 +10,11 @@
 <h3 align="center">I'm a CSE student with a drive to innovate and leave a lasting imprint on the tech scene.🌐BD</h3>
 </br>
 
+<div align=center>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=FaixaTheGutipoka&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+</div>
+</br>
+
 <h2 align="center">About me :D</h2>
 <div align="center">
  
