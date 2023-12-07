@@ -40,7 +40,6 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,java,html,idea,github,stackoverflow" /><br>
 </div>
-<hr/>
 
 
 
@@ -74,8 +73,8 @@
 
 
 
+<hr/>
 <h2 align="center"> Connect with me </h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,discord,linkedin,instagram" /><br>
 </div>
