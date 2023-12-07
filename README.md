@@ -21,7 +21,7 @@
 
  ☕️ <b>Interest :</b> AI, ANN, ML/DL, Data Mining, PyTorch, NumPy...
 
-💬 Let's discuss about <b>ML/DL, Blockchain, Quantum Computation, ... or anything [here]https://github.com/FaixaTheGutipoka/FaixaTheGutipoka/issues</b>
+💬 Let's discuss about <b>ML/DL, Blockchain, Quantum Computation, ... or anything [here](https://github.com/FaixaTheGutipoka/FaixaTheGutipoka/issues)</b>
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
