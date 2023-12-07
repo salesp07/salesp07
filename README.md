@@ -13,7 +13,7 @@
 
 
 
-<h3 align="center">I'm a CSE student with a drive to innovate and leave a lasting imprint on the tech scene.🌐BD</h3>
+<h3 align="center">I'm a CSE student with a drive to innovate and leave a lasting imprint on the tech scene.</h3>
 </br>
 
 
@@ -46,7 +46,7 @@
 <h2 align="center">About me :D</h2>
 <div align="center">
  
- 🎓 <b>Education:</b> Doing UG at North South University
+ 🎓 <b>Education:</b> Doing UG at NSU
 
  💻 <b>Skill sets:</b> Python, C, Java, SQL, HTML & 6809
  
