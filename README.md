@@ -15,6 +15,13 @@
 </div>
 </br>
 
+<h2 align="center">⚒️ Skill set ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,c,java,html,idea,github,stackoverflow" /><br>
+</div>
+<hr/>
+
 <h2 align="center">About me :D</h2>
 <div align="center">
  
@@ -44,13 +51,6 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Skill set ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,java,html,idea,github,stackoverflow" /><br>
-</div>
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
