@@ -25,7 +25,7 @@
 
 
 
-<h2 align="center">Stats!!!</h2>
+<h2 align="center">Stats⚡</h2>
 <div align="center">
   <br/>
     <a href="https://github.com/FaixaTheGutipoka/github-readme-stats"><img alt="Faiza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FaixaTheGutipoka&show_icons=true&count_private=true&theme=cobalt&hide_border=true&bg_color=0D1117" /></a>
@@ -35,7 +35,7 @@
 
 
 
-<h2 align="center">⚒️ Skill set ⚒️</h2>
+<h2 align="center">Skill sets ✍</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,java,html,idea,github,stackoverflow" /><br>
@@ -75,7 +75,7 @@
 </br>
 </br>
 <hr/>
-<h2 align="left"> Connect with me </h2>
+<h2 align="left"> Connect with me 📱</h2>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=github,discord,linkedin,instagram" /><br>
 </div>
