@@ -28,7 +28,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:faixa.the.gutipoka@gmail.com" target="_blank">
+  <a href="mailto:faixa.the.gutipoka@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/labiba-faiza-karim-6057b8217/" target="_blank">
