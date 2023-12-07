@@ -17,9 +17,11 @@
 
  💻 <b>Skill set:</b> C, Python 3, Java, SQL, HTML & 6809(AL)
  
- 🌱 <b>Learning :</b> C++, ML/DL...
+ 🌱 <b>Learning :</b> JavaScript, C++, ML/DL...
 
-💬 Let's discuss about <b>OOP, Java, AI, ML/DL... or anything [here]</b>(https://github.com/FaixaTheGutipoka/FaixaTheGutipoka/issues)**
+ ☕️ <b>Interest :</b> AI, ANN, ML/DL, Data Mining, PyTorch, NumPy...
+
+💬 Let's discuss about <b>ML/DL, Blockchain, Quantum Computation, ... or anything [here]</b>(https://github.com/sales07/sales07/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
