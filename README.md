@@ -11,6 +11,7 @@
 
 <br/>
 
+<h2 align="center">About me :D</h2>
 <div align="center">
  
  🎓 <b>Education:</b> Doing UG at North South University
