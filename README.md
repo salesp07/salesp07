@@ -16,11 +16,12 @@
 </br>
 
 <h2 align="center">Stats!!!</h2>
-
+<div align="center">
   <br/>
-    <a href="https://github.com/FaixaTheGutipoka/github-readme-stats"><img alt="Faiza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FaixaTheGutipoka&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/FaixaTheGutipoka/github-readme-stats"><img alt="Faiza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FaixaTheGutipoka&show_icons=true&count_private=true&theme=cobalt&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/narayanbavisetti/github-readme-stats"><img alt="Narayan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanbavisetti&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+</div>
 
 <h2 align="center">⚒️ Skill set ⚒️</h2>
 <br/>
@@ -57,16 +58,6 @@
 </div>
 
  <hr/>
- 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaixaTheGutipoka)](https://github.com/FaixaTheGutipoka/github-readme-stats)
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-
-<br/><br/>
-
-<hr/>
 
 <br/>
 <hr/>
