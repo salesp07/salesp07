@@ -14,6 +14,7 @@
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=FaixaTheGutipoka&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 </br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaixaTheGutipoka &theme=radical)
 
 <h2 align="center">⚒️ Skill set ⚒️</h2>
 <br/>
