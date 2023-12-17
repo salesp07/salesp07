@@ -77,5 +77,5 @@
 <hr/>
 <h2 align="left"> Connect with me 📱</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=github,discord,linkedin,Instagram,facebook" /><br>
+    <img src="https://skillicons.dev/icons?i=github,discord,linkedin,Instagram" /><br>
 </div>
