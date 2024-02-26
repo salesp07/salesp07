@@ -48,7 +48,7 @@
  
  🎓 <b>Education:</b> Doing UG at NSU
 
- 💻 <b>Skill sets:</b> Python, C, Java, SQL, HTML & 6809
+ 💻 <b>Skill sets:</b> Python, C, C++, Java, SQL, HTML & 6809
  
  🌱 <b>Currently learning:</b> JavaScript, C++, ML/DL, Web development...
 
