@@ -64,11 +64,6 @@
 <hr/>
 
 <br/>
-
-<div align="center">
-<a href='https://wa.me/233502126120' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Lets Talk over Cofee' /></a>
-</div>
-
  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!👋;+Shoot+me+a+message+on+LINKEDIN+or+Email+me;+I'm+always+down+to+Collaborate" />
 </h1>:
