@@ -75,10 +75,9 @@
   🎮 Video Games
   🎧 Listening to Music
 </details>
-<div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-![Benjamin Arthur's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Origina-so&custom_title=Benjamin%20Arthur's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-</div>
+<p align='center'>
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=Origina-sudo&theme=darkmode&data=followers,repositories,stars,commits' />
+</p>
 
 <div align="center">
 <i>❝The ones who stand at the top are those who never give up! We will overcome any obstacle and reach the New World!❞ - Monkey D. Luffy</i>
