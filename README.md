@@ -69,6 +69,7 @@
 </h1>:
 <a href='https://wa.me/233502126120' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Lets Talk over Cofee' /></a>
 <div align="center">
+ <div align="right">
   <a href="https://x.com/BenjaminAr36918?t=BeOGds7Q5zkj729JJqtdjw&s=08" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" 
          alt="Twitter" 
@@ -76,6 +77,8 @@
          onmouseover="this.style.transform='scale(1.1)'" 
          onmouseout="this.style.transform='scale(1)'"/>
   </a>
+</div>
+
 </div>
 
 </div>
