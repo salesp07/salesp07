@@ -73,6 +73,26 @@
   🎮 Video Games
   🎧 Listening to Music
 </details>
+
+---
+
+```java
+// Believe in yourself and your code
+if (isCodeWorking) {
+    // Strive for improvement until achieving greatness
+    while (codeQuality < perfection) {
+        codeQuality++; // Increment code quality
+    }
+}
+
+// The endless loop of a coder's life
+while (alive) {
+    eat(); // Fuel your body
+    sleep(); // Rest your mind
+    code(); // Chase your dreams
+}
+// "Hard work is worthless for those that don't believe in themselves." - Naruto Uzumaki
+// - Benjamin Arthur
 <div>
  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Thanks+for+visiting!👋;+Shoot+me+a+message+on+LINKEDIN+or+Email+me;+I'm+always+down+to+Collaborate" />
