@@ -63,6 +63,16 @@
 <hr/>
 
 <br/>
+
+<details>
+  <summary>Hobbies</summary>
+  🍽️ 🛌 👨🏻‍💻 🔁 
+  </br>
+  Basketball
+  📚 Learning
+  🎮 Video Games
+  🎧 Listening to Music
+</details>
  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Thanks+for+visiting!👋;+Shoot+me+a+message+on+LINKEDIN+or+Email+me;+I'm+always+down+to+Collaborate" />
 </h1>
