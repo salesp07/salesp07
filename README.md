@@ -66,19 +66,7 @@
  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Thanks+for+visiting!👋;+Shoot+me+a+message+on+LINKEDIN+or+Email+me;+I'm+always+down+to+Collaborate" />
 </h1>
-<a href='https://wa.me/233502126120' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Lets Talk over Cofee' /></a>
-<div align="center">
- <div align="right">
- <div style="position: relative; width: 100%;">
-  <a href="https://x.com/BenjaminAr36918?t=BeOGds7Q5zkj729JJqtdjw&s=08" target="_blank" rel="noopener noreferrer" style="position: absolute; top: 0; right: 0;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" 
-         alt="Twitter" 
-         style="border:0; height:48px; border-radius:8px; box-shadow:0 4px 6px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;" 
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</div>
-
+ 
 </div>
 
 </div>
