@@ -14,7 +14,7 @@
 
 💬 Ask me about Tailwind, React, Django... or anything [here](https://github.com/Origina-sudo/Origina-sudo/issues)
 
-⚡ Fun fact: I once fought  over a TTIGRAS(Rimiru Tempest) action figure
+⚡ Fun fact: I once Killed over a TTIGRAS action figure! Or did I? I guess you'll never know 😜
 
  </div>
 <div align="center"> 
