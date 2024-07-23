@@ -76,7 +76,7 @@
   🎧 Listening to Music
 </details>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-![Benjamin Arthur's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Origina-sudo&custom_title=Benjamin%20Arthur's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Roshni Rai's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rairoshni2005&custom_title=Roshni%20Rai's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 </div>
 <div align="center">
 <i>❝The ones who stand at the top are those who never give up!  We will overcome any obstacle and reach the New World!❞ - Monkey D. Luffy</i>
