@@ -95,6 +95,9 @@ while (alive) {
 // "Hard work is worthless for those that don't believe in themselves." - Naruto Uzumaki
 // - Benjamin Arthur
 ```
+<div align="center">
+<i>❝The ones who stand at the top are those who never give up!  We will overcome any obstacle and reach the New World!❞ - Monkey D. Luffy</i>
+</div>
 
 <div>
  <h1 align="center">
