@@ -75,13 +75,13 @@
   🎮 Video Games
   🎧 Listening to Music
 </details>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-![Roshni Rai's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rairoshni2005&custom_title=Roshni%20Rai's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-</div>
-<div align="center">
-<i>❝The ones who stand at the top are those who never give up!  We will overcome any obstacle and reach the New World!❞ - Monkey D. Luffy</i>
-</div>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+![Benjamin Arthur's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Origina-so&custom_title=Benjamin%20Arthur's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<div align="center">
+<i>❝The ones who stand at the top are those who never give up! We will overcome any obstacle and reach the New World!❞ - Monkey D. Luffy</i>
+</div>
 <div>
  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Thanks+for+visiting!👋;+Shoot+me+a+message+on+LINKEDIN+or+Email+me;+I'm+always+down+to+Collaborate" />
