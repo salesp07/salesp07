@@ -75,26 +75,11 @@
   🎮 Video Games
   🎧 Listening to Music
 </details>
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-```java
-// Believe in yourself and your code
-if (isCodeWorking) {
-    // Strive for improvement until achieving greatness
-    while (codeQuality < perfection) {
-        codeQuality++; // Increment code quality
-    }
-}
+![Roshni Rai's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rairoshni2005&custom_title=Roshni%20Rai's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-// The endless loop of a coder's life
-while (alive) {
-    eat(); // Fuel your body
-    sleep(); // Rest your mind
-    code(); // Chase your dreams
-}
-// "Hard work is worthless for those that don't believe in themselves." - Naruto Uzumaki
-// - Benjamin Arthur
-```
+</div>
 <div align="center">
 <i>❝The ones who stand at the top are those who never give up!  We will overcome any obstacle and reach the New World!❞ - Monkey D. Luffy</i>
 </div>
