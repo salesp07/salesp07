@@ -1,4 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Origina-sudo.Origina-sudo" />
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Origina-sudo&style=for-the-badge&color=orange" alt="Benjamin Arthur's Visitor Count"/>
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Benjamin+Arthur!;" />
