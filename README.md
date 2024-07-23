@@ -14,8 +14,7 @@
 
 💬 Ask me about Tailwind, React, Django... or anything [here](https://github.com/Origina-sudo/Origina-sudo/issues)
 
-⚡ Fun fact: I once Killed over a TTIGRAS action figure! Or did I? I guess you'll never know 😜
-
+⚡ Fun fact: I’ve seen every TTIGRAS episode at least five times  and read the whole novel, about Three times .
  </div>
 <div align="center"> 
   <a href="mailto:arthurbenjamin8585@gmail.com">
