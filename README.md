@@ -66,13 +66,14 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://wa.me/233502126120' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Lets Talk over Cofee' /></a>
 </div>
     <a href="https://x.com/BenjaminAr36918?t=BeOGds7Q5zkj729JJqtdjw&s=08 " target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
-    <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!👋;+Shoot+me+a+message+on+LINKEDIN+or+Email+me;+I'm+always+down+to+Collaborate" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+🌍;+Feel+free+to+connect+with+me+on+LINKEDIN+or+shoot+me+an+Email;+Let%27s+build+something+amazing+together!" />
 </h1>
+
 
 <br/>
