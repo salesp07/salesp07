@@ -72,7 +72,7 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile!🚀;+Feel+free+to+connect+on+LINKEDIN+or+send+an+Email;+I%27m+excited+to+work+together+and+share+ideas" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub+profile!+🚀;Feel+free+to+connect+via+LINKEDIN+or+Email;+Excited+to+collaborate+and+exchange+ideas!" />
 </h1>
 
 <br/>
