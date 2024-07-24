@@ -60,9 +60,9 @@
   <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Origina-sudo&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top languages" />
   <br/>
+  <!--
   <img width=390 src="https://github-readme-activity-graph.cyclic.app/graph?username=Origina-sudo&theme=blue-green&title_color=00b3ff" alt="Benjamin Arthur's activity graph">
 </div>
-<!--
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
