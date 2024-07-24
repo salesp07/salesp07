@@ -53,7 +53,7 @@
 <hr/>
 <h2 align="center">⚡  Popoi's GitHub Stats ⚡</h2>
 <be>
-<!-- 
+
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Origina-sudo&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Origina-sudo&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
@@ -67,7 +67,7 @@
 
 <br/>
 
-<!-- 
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Origina-sudo&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="Benjamin Arthur's activity graph">
 </p>
