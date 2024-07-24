@@ -58,9 +58,8 @@
   <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Origina-sudo&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="Benjamin Arthur's GitHub stats" />
   <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Origina-sudo&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top languages" />
-  <br/>
-  <img width=390 src="https://github-readme-activity-graph.cyclic.app/graph?username=Origina-sudo&theme=blue-green&title_color=00b3ff" alt="Benjamin Arthur's activity graph">
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Origina-sudo&layout=compact&count_private=true&theme=blue-green
+&title_color=00b3ff" alt="Top languages" />
 </div>
 
 
