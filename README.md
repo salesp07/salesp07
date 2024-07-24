@@ -60,6 +60,9 @@
   <br/>
   <img width=390 src="https://streak-stats.demolab.com/?user=Origina-sudo&count_private=true&theme=blue-green&title_color=00b3ff" alt="Benjamin Arthur's current streak" />
 </div>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 
 <p align="center">
