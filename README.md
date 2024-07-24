@@ -12,7 +12,7 @@
 <div align="center">
  🔭 I’m currently working on a Bank app
  
- 🌱 I’m learning Django, React, Redux, React-Native, Tailwind, and Bootstrap 
+ 🌱 I’m learning Django, Next.js, Redux, React-Native, Tailwind, and Bootstrap 
 
 💬 Ask me about Tailwind, React, Django... or anything [here](https://github.com/Origina-sudo/Origina-sudo/issues)
 
