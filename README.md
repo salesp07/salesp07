@@ -53,6 +53,13 @@
 <hr/>
 <h2 align="center">⚡  Popoi's GitHub Stats ⚡</h2>
 
+<div align="center">
+  <img width=390 src="https://bad-apple-github-readme.vercel.app/api?username=Origina-sudo&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="Benjamin Arthur's github stats" />
+  <br/>
+  <img width=390 src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Origina-sudo&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top languages" />
+  <br/>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Origina-sudo&count_private=true&theme=blue-green&title_color=00b3ff" alt="Benjamin Arthur's current streak" />
+</div>
 
 
 <p align="center">
