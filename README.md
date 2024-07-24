@@ -28,7 +28,8 @@
   </a>
   <a href="https://your-portfolio-link" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- Replace with your actual portfolio link -->
-  </a>
+  </
+a>
   <a href="https://www.instagram.com/your_instagram_handle/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -62,9 +63,10 @@
   <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Origina-sudo&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="Benjamin Arthur's GitHub stats" />
   <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Origina-sudo&layout=compact&count_private=true&theme=blue-green
-&title_color=00b3ff" alt="Top languages" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Origina-sudo&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top languages" />
+  <br/>
 </div>
+
 
 
 
