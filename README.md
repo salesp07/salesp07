@@ -42,7 +42,7 @@ a>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,webpack,pycharm" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nextjs,mysql,Django" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,nextjs,mysql,Django, Saas" /><br>
 </div>
 
 <br/>
