@@ -7,8 +7,6 @@
 </h1>
 <h3 align="center">Bridging the digital divide -software developer building inclusive solutions. </h3>
 
-https://github.com/zzadxz/files/assets/70961538/d63f968b-2e97-44ab-9b45-5529f5888727
-
 <br/>
 
 <div align="center">
