@@ -78,12 +78,13 @@ a>
 <div align="center">
 <i>❝The ones who stand at the top are those who never give up! We will overcome any obstacle and reach the New World!❞ - Monkey D. Luffy</i>
 </div>
-<!-- <div>
+<div>
  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Thanks+for+visiting!👋;+Shoot+me+a+message+on+LINKEDIN+or+Email+me;+I'm+always+down+to+Collaborate" />
 </h1>
- <h4 align = "center"> <img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="35"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4980&pause=1099&color=FFFFFF&vCenter=true&random=false&width=550&lines=Check+my+Pinned+Repositories+below+and+leave+Star+Please😎" alt="Typing SVG"/> </a><img src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Downward_Arrow.gif" width="40">
-</div> -->
+ <h4 align = "center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4980&pause=1099&color=FFFFFF&vCenter=true&random=false&width=550&lines=Check+my+Pinned+Repositories+below+and+leave+Star+Please😎" alt="Typing SVG"/> </a>
+</div>
 
 </div>
 
