@@ -12,9 +12,9 @@
  
  🌱🔭 I’m currently working on **a marketplace**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **My code... or anything [here](https://www.facebook.com/Kato.1407)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ **Let all that you do be done in love.**
 
  </div>
  
