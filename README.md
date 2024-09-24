@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱🔭 I’m currently working on **a marketplace**
+ 🌱🔭 I’m currently working on **my home**
 
 💬 Ask me about **My code... or anything [here](https://www.facebook.com/Kato.1407)**
 
